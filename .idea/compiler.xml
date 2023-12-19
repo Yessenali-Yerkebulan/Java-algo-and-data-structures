@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java-data-structures" />
+        <module name="Java-algo-and-data-structures" />
       </profile>
     </annotationProcessing>
   </component>
