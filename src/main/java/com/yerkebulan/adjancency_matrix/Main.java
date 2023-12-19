@@ -25,5 +25,7 @@ public class Main {
         graph.print();
 
         System.out.println(graph.checkEdge(0, 1));
+
+        graph.depthFirstSearch(0);
     }
 }

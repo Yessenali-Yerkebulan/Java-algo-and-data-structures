@@ -1,4 +1,4 @@
-package com.yerkebulan.adjancecny_list;
+package com.yerkebulan.adjancency_list;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package com.yerkebulan.adjancecny_list;
+package com.yerkebulan.adjancency_list;
 
 public class Main {
 
